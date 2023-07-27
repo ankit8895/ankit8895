@@ -1,4 +1,4 @@
-<img alt="background" width="100%" src="https://giphy.com/static/img/zoomies-small.gif">
+<img alt="background" width="100%" src="https://media4.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif?cid=ecf05e47rfrbp29dezsjtbppd9uhma10atdqbx4ekwb90qyh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4Y291NjVvdnJzN202bm9kMTF3YW1taHVndmltM25xODFhZ3Y1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
